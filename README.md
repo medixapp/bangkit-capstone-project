@@ -13,7 +13,7 @@ MediX is an application that can predict user's disease based on symptoms. There
 | William Devin Septianus Pranggono | M009D4KY3101   | Machine Learning    | Machine Learning Engineer               | [LinkedIn](https://www.linkedin.com/in/william-devin-septianus-pranggono-292206231/) or [Github](https://github.com/WilliamDevin23)  |
 | Muhammad Ridho                    | C009D4KY1047   | Cloud Computing     | Project Manager, DevOps Engineer        | [LinkedIn]() or [Github](https://github.com/ridho237)  |
 | Arifin Ilham Muttaqin             | C009D4KY0204   | Cloud Computing     | DevOps Engineer                         | [LinkedIn](https://www.linkedin.com/in/arifin-ilham-muttaqin-127981229/) or [Github](https://github.com/AL1isHere)  |
-| Randi Trinanda                    | A226D4KY4195   | Mobile Development  | Android Mobile Developer, Designer      | [LinkedIn]() or [Github]()  |
+| Randi Trinanda                    | A226D4KY4195   | Mobile Development  | Android Mobile Developer, Designer      | [LinkedIn](https://www.linkedin.com/in/randi-trinanda-a6824a2b3/) or [Github](https://github.com/randi55)  |
 | Khairul Reza Bakara               | A281D4KY3454   | Mobile Development  | Android Mobile Developer, Designer      | [LinkedIn]() or [Github]()  |
 
 # Repositories
