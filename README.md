@@ -8,7 +8,7 @@ MediX is an application that can predict user's disease based on symptoms. There
 
 | Member                            | Student ID     | Learning Path       | Role                                    | Contacts                      |
 | :-------------------------------- | :------------- | :------------------ | :-------------------------------------- | :---------------------------- |
-| Rifqi Aditya Fadhil               | M006D4KY2179   | Machine Learning    | Machine Learning Engineer               | [LinkedIn]() or [Github]()  |
+| Rifqi Aditya Fadhil               | M006D4KY2179   | Machine Learning    | Machine Learning Engineer               | [LinkedIn](https://www.linkedin.com/in/rifqiadityaf/) or [Github](https://github.com/rifqiadityaf)  |
 | Desika Nurul Afifah               | M283D4KX2541   | Machine Learning    | Machine Learning Engineer               | [LinkedIn](https://www.linkedin.com/in/desika-nurul-afifah) or [Github](https://github.com/desikanra)  |
 | William Devin Septianus Pranggono | M009D4KY3101   | Machine Learning    | Machine Learning Engineer               | [LinkedIn](https://www.linkedin.com/in/william-devin-septianus-pranggono-292206231/) or [Github](https://github.com/WilliamDevin23)  |
 | Muhammad Ridho                    | C009D4KY1047   | Cloud Computing     | Project Manager, DevOps Engineer        | [LinkedIn]() or [Github](https://github.com/ridho237)  |
