@@ -22,6 +22,6 @@ MediX is an application that can predict user's disease based on symptoms. There
 | :---------------: | :----------------------------------------------------------------: |
 | Machine Learning  | [Github](https://github.com/medixapp/medix-ml-model) |
 | Cloud Computing   | [Github](https://github.com/medixapp/medix-cc-backend)  |
-| Mobile Development| [Github](https://github.com/medixapp/medix-md-frontend)  |
+| Mobile Development| [Github](https://github.com/medixapp/medix-md-final)  |
 
 <p align="right"> C241-PS296
