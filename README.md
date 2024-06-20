@@ -1,8 +1,8 @@
-# MediX : Balancing Your Physical and Mental Health
+# MediX : Healthy Digestive for Healty Life
 The documentation of MediX application for Bangkit Capstone Project 2024
 
 # About
-MediX is an application that can predict user's disease based on symptoms. There is also a chatbot that can help users to have QNA about mental health.
+MediX is an application that can predict users' digestive disease based on the symptoms that users feel. There is also a chatbot that could provide additional information about digestive diseases, especially stomachache.
 
 # Team Members
 
